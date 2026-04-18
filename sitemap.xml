@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>arvydas.github.io/posts/</loc>
-    <lastmod>2026-04-18T17:45:41+03:00</lastmod>
+    <loc>https://arvydaslozys.github.io/</loc>
+    <lastmod>2026-04-18T19:32:30+03:00</lastmod>
   </url><url>
-    <loc>arvydas.github.io/</loc>
-    <lastmod>2026-04-18T17:45:41+03:00</lastmod>
+    <loc>https://arvydaslozys.github.io/bombardiro/</loc>
+    <lastmod>2026-04-18T19:32:30+03:00</lastmod>
   </url><url>
-    <loc>arvydas.github.io/posts/tralalelo/</loc>
-    <lastmod>2026-04-18T17:45:41+03:00</lastmod>
+    <loc>https://arvydaslozys.github.io/tralalero/</loc>
+    <lastmod>2026-04-18T19:32:30+03:00</lastmod>
   </url><url>
-    <loc>arvydas.github.io/categories/</loc>
+    <loc>https://arvydaslozys.github.io/triplet/</loc>
+    <lastmod>2026-04-18T19:32:30+03:00</lastmod>
   </url><url>
-    <loc>arvydas.github.io/tags/</loc>
+    <loc>https://arvydaslozys.github.io/categories/</loc>
+  </url><url>
+    <loc>https://arvydaslozys.github.io/tags/</loc>
   </url>
 </urlset>
